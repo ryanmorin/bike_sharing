@@ -1,7 +1,7 @@
 # Bike Sharing
 
 ## Overview
-The purpose of the analysis is to use pubically available information to glean insights into who is using the CitiBike program in NYC. The insights will be used to justify starting a similar bike rental program in Des Moines.
+The purpose of the analysis is to use pubicly available information to glean insights into who is using the CitiBike program in NYC. The insights will be used to justify starting a similar bike rental program in Des Moines.
 
 ## Results
 
@@ -33,4 +33,4 @@ The typical user of CitiBike is male and he's a regular user of the service.  He
 
 Two visualizations would be interesting to look at; the average age of the user and the usage by month. The usage is probably affected by the weather.  It would be helpful to know how much the usage changes by month to know how the business would be impacted by winter. The age would be useful as a way to understand the size of the available market in Des Monines.
 
-[Ryan's Tableau Dashboard](https://public.tableau.com/app/profile/ryan.morin/viz/CitiBike_Project4/Story1)
+[Ryan's Tableau Story](https://public.tableau.com/app/profile/ryan.morin/viz/CitiBike_Project4/Story1)
